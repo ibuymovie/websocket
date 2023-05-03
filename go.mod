@@ -1,4 +1,4 @@
-module github.com/gofiber/websocket/v2
+module github.com/ibuymovie/websocket
 
 go 1.17
 
